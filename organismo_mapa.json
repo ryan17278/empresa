@@ -1,0 +1,405 @@
+{
+ "v": 1,
+ "nodes": [
+  {
+   "id": "organismo",
+   "l": "ORGANISMO",
+   "c": "centro",
+   "hub": 1,
+   "t": "O time e as frentes. Este mapa cresce com o tempo: o organismo (ou você) adiciona nós.",
+   "p": [
+    0,
+    0.05,
+    0
+   ]
+  },
+  {
+   "id": "bart",
+   "l": "Bart",
+   "c": "bots",
+   "hub": 0,
+   "t": "Produz os Shorts: corta o episódio, narra e monta o vídeo.",
+   "p": [
+    0.75,
+    0.45,
+    0.0
+   ]
+  },
+  {
+   "id": "viki",
+   "l": "Viki",
+   "c": "bots",
+   "hub": 0,
+   "t": "Mede qualidade e números de cada vídeo.",
+   "p": [
+    0.53,
+    0.57,
+    0.53
+   ]
+  },
+  {
+   "id": "ryan",
+   "l": "Ryan",
+   "c": "bots",
+   "hub": 0,
+   "t": "Aprova e posta. Ninguém posta sem o OK dele.",
+   "p": [
+    0.0,
+    0.45,
+    0.75
+   ]
+  },
+  {
+   "id": "jez",
+   "l": "Jez",
+   "c": "bots",
+   "hub": 0,
+   "t": "Programa as ferramentas do time.",
+   "p": [
+    -0.53,
+    0.33,
+    0.53
+   ]
+  },
+  {
+   "id": "luz",
+   "l": "Luz",
+   "c": "bots",
+   "hub": 0,
+   "t": "Cuida da arquitetura do Dreams.",
+   "p": [
+    -0.75,
+    0.45,
+    0.0
+   ]
+  },
+  {
+   "id": "atlas",
+   "l": "ATLAS",
+   "c": "bots",
+   "hub": 0,
+   "t": "É a memória do time.",
+   "p": [
+    -0.53,
+    0.57,
+    -0.53
+   ]
+  },
+  {
+   "id": "rosa",
+   "l": "Rosa",
+   "c": "bots",
+   "hub": 0,
+   "t": "Achadinhos (produtos com link de afiliado). Pausado 90 dias.",
+   "p": [
+    -0.0,
+    0.45,
+    -0.75
+   ]
+  },
+  {
+   "id": "star",
+   "l": "Star",
+   "c": "bots",
+   "hub": 0,
+   "t": "Conversa com o Ryan e faz o red team.",
+   "p": [
+    0.53,
+    0.33,
+    -0.53
+   ]
+  },
+  {
+   "id": "springfield",
+   "l": "SPRINGFIELD BR",
+   "c": "frentes",
+   "hub": 1,
+   "t": "Frente principal: 1–2 Shorts por dia por 90 dias.",
+   "p": [
+    -0.55,
+    -0.45,
+    0.55
+   ]
+  },
+  {
+   "id": "achadinhos",
+   "l": "Achadinhos",
+   "c": "frentes",
+   "hub": 1,
+   "t": "Pausado 90 dias (caixinha).",
+   "p": [
+    0.75,
+    -0.5,
+    -0.35
+   ]
+  },
+  {
+   "id": "dreams",
+   "l": "Dreams / Atlas",
+   "c": "frentes",
+   "hub": 1,
+   "t": "escada → lei → aposta → portão.",
+   "p": [
+    -0.6,
+    -0.5,
+    -0.6
+   ]
+  },
+  {
+   "id": "a-star",
+   "l": "Abertura = título falado",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Star: a abertura é o título falado, em até 2,5 s, como afirmação. (cortes/APRENDIZADOS_TIME.md, 28/10)",
+   "p": [
+    -0.618,
+    -0.95,
+    -0.849
+   ]
+  },
+  {
+   "id": "a-viki",
+   "l": "Frame 0 já em movimento",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Viki: o frame 0 já em movimento, sem fade. (APRENDIZADOS_TIME.md, 28/10)",
+   "p": [
+    -0.135,
+    -0.85,
+    -1.041
+   ]
+  },
+  {
+   "id": "a-luz",
+   "l": "Narração com opinião",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Luz: a narração precisa de opinião (mudança de regra de 01/10/2026). (APRENDIZADOS_TIME.md, 28/10)",
+   "p": [
+    0.38,
+    -0.95,
+    -0.979
+   ]
+  },
+  {
+   "id": "a-rosa",
+   "l": "1º frame = capa real",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Rosa: o 1º frame é a capa real (99,9% das views vêm do feed). (APRENDIZADOS_TIME.md, 28/10)",
+   "p": [
+    0.803,
+    -0.85,
+    -0.676
+   ]
+  },
+  {
+   "id": "a-jez",
+   "l": "Sem isca · subir o mp4 mestre",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Jez: sem isca de engajamento; subir o mp4 mestre. (APRENDIZADOS_TIME.md, 28/10)",
+   "p": [
+    1.029,
+    -0.95,
+    -0.209
+   ]
+  },
+  {
+   "id": "a-shares",
+   "l": "Compartilhamento por alcance pesa",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Star: compartilhamentos por alcance pesam muito (item 4). (achadinhos/CADERNINHO_ESTUDOS/INDICE.md, 25/10)",
+   "p": [
+    1.003,
+    -0.85,
+    0.31
+   ]
+  },
+  {
+   "id": "a-energia",
+   "l": "Energia > corte no beat",
+   "c": "aprendizados",
+   "hub": 0,
+   "t": "Star: contas grandes não cortam no beat; o que conta é casar a energia (itens 13/19). (CADERNINHO_ESTUDOS/INDICE.md, 25/10)",
+   "p": [
+    0.732,
+    -0.95,
+    0.753
+   ]
+  },
+  {
+   "id": "esc-2610-1",
+   "l": "lei ESC-2610-1",
+   "c": "leis",
+   "hub": 0,
+   "t": "Uma ferramenta liberta quando colabora com a evolução pessoal. (atlas.jsonl · organismo/BLOCO_DREAMS_26-10.md)",
+   "p": [
+    -1.15,
+    -0.33,
+    -0.15
+   ]
+  },
+  {
+   "id": "esc-2610-2",
+   "l": "lei ESC-2610-2",
+   "c": "leis",
+   "hub": 0,
+   "t": "o caos é a parte da ideia que ainda não tem palavra… (atlas.jsonl · organismo/BLOCO_DREAMS_26-10.md)",
+   "p": [
+    -1.03,
+    -0.11,
+    -0.35
+   ]
+  },
+  {
+   "id": "esc-2610-3",
+   "l": "lei ESC-2610-3",
+   "c": "leis",
+   "hub": 0,
+   "t": "tudo é possível no todo; o questionar decide… (atlas.jsonl · organismo/BLOCO_DREAMS_26-10.md)",
+   "p": [
+    -0.91,
+    0.11,
+    -0.55
+   ]
+  },
+  {
+   "id": "esc-2610-4",
+   "l": "lei ESC-2610-4",
+   "c": "leis",
+   "hub": 0,
+   "t": "no organismo nada fica parado, nem o observador… (atlas.jsonl · organismo/BLOCO_DREAMS_26-10.md)",
+   "p": [
+    -0.79,
+    0.33,
+    -0.75
+   ]
+  }
+ ],
+ "edges": [
+  [
+   "organismo",
+   "bart"
+  ],
+  [
+   "organismo",
+   "viki"
+  ],
+  [
+   "organismo",
+   "ryan"
+  ],
+  [
+   "organismo",
+   "jez"
+  ],
+  [
+   "organismo",
+   "luz"
+  ],
+  [
+   "organismo",
+   "atlas"
+  ],
+  [
+   "organismo",
+   "rosa"
+  ],
+  [
+   "organismo",
+   "star"
+  ],
+  [
+   "organismo",
+   "springfield"
+  ],
+  [
+   "organismo",
+   "achadinhos"
+  ],
+  [
+   "organismo",
+   "dreams"
+  ],
+  [
+   "bart",
+   "springfield"
+  ],
+  [
+   "viki",
+   "springfield"
+  ],
+  [
+   "ryan",
+   "springfield"
+  ],
+  [
+   "rosa",
+   "achadinhos"
+  ],
+  [
+   "luz",
+   "dreams"
+  ],
+  [
+   "atlas",
+   "dreams"
+  ],
+  [
+   "jez",
+   "dreams"
+  ],
+  [
+   "star",
+   "ryan"
+  ],
+  [
+   "star",
+   "a-star"
+  ],
+  [
+   "viki",
+   "a-viki"
+  ],
+  [
+   "luz",
+   "a-luz"
+  ],
+  [
+   "rosa",
+   "a-rosa"
+  ],
+  [
+   "jez",
+   "a-jez"
+  ],
+  [
+   "star",
+   "a-shares"
+  ],
+  [
+   "star",
+   "a-energia"
+  ],
+  [
+   "dreams",
+   "esc-2610-1"
+  ],
+  [
+   "dreams",
+   "esc-2610-2"
+  ],
+  [
+   "dreams",
+   "esc-2610-3"
+  ],
+  [
+   "dreams",
+   "esc-2610-4"
+  ]
+ ],
+ "atualizado": "2026-10-29T00:00:00-03:00",
+ "fonte": "semente real: TEAM, APRENDIZADOS_TIME.md, CADERNINHO_ESTUDOS/INDICE.md, atlas.jsonl"
+}
