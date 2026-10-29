@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-29T15:50:00-03:00",
+  "atualizado": "2026-10-29T15:47:13-03:00",
   "meta": "R$1.500 por mês",
   "proximo": "1 a 2 Shorts por dia",
   "canal": {
@@ -8,21 +8,66 @@
     "views_total": "29,6 mil",
     "inscritos": 84,
     "videos": [
-      { "titulo": "Lisa (vestido)", "views": 14764 },
-      { "titulo": "Bart/Homer", "views": 7281 },
-      { "titulo": "Casa explodindo", "views": 2408 }
+      {
+        "titulo": "Lisa (vestido)",
+        "views": 14764
+      },
+      {
+        "titulo": "Bart/Homer",
+        "views": 7281
+      },
+      {
+        "titulo": "Casa explodindo",
+        "views": 2408
+      }
     ]
   },
-  "bart":  { "tarefa": "produzindo os Shorts: EP06 (menos narração, mais falas originais, cenas mais longas) e EP07 (abertura em close de rosto reagindo)", "estado": "trabalhando" },
-  "viki":  { "tarefa": "medindo e revisando; esperando o print de 24h com 'ficaram para assistir'", "estado": "revisando" },
-  "ryan":  { "tarefa": "aprovar e postar 1 a 2 Shorts por dia + prints de 1h e 24h", "estado": "esperando" },
-  "star":  { "tarefa": "chefe do time: coordenando e montando a empresa (v8 publicada hoje)", "estado": "trabalhando" },
-  "rosa":  { "tarefa": "achadinhos na caixinha (pausado 90 dias)", "estado": "pausado" },
-  "luz":   { "tarefa": "Dreams / atlas", "estado": "trabalhando" },
-  "jez":   { "tarefa": "programando o Dreams / organismo", "estado": "trabalhando" },
+  "bart": {
+    "tarefa": "produzindo os Shorts: EP06 (menos narração, mais falas originais, cenas mais longas) e EP07 (abertura em close de rosto reagindo)",
+    "estado": "trabalhando"
+  },
+  "viki": {
+    "tarefa": "medindo e revisando; esperando o print de 24h com 'ficaram para assistir'",
+    "estado": "revisando"
+  },
+  "ryan": {
+    "tarefa": "aprovar e postar 1 a 2 Shorts por dia + prints de 1h e 24h",
+    "estado": "esperando"
+  },
+  "star": {
+    "tarefa": "chefe do time: coordenando e montando a empresa (v8 publicada hoje)",
+    "estado": "trabalhando"
+  },
+  "rosa": {
+    "tarefa": "achadinhos na caixinha (pausado 90 dias)",
+    "estado": "pausado"
+  },
+  "luz": {
+    "tarefa": "Dreams / atlas",
+    "estado": "trabalhando"
+  },
+  "jez": {
+    "tarefa": "programando o Dreams / organismo",
+    "estado": "trabalhando"
+  },
   "feed": [
-    { "de": "Star", "para": "Viki", "texto": "Hipótese: abertura em close de rosto reagindo segura mais gente nos primeiros segundos.", "hora": "29/10" },
-    { "de": "Viki", "para": "Bart", "texto": "EP06 mantém a escolha (menos narração, mais falas originais, cenas mais longas). O close de rosto entra no EP07.", "hora": "29/10" },
-    { "de": "Star", "para": "Ryan", "texto": "Empresa v8 no ar.", "hora": "29/10 15:50" }
+    {
+      "de": "Star",
+      "para": "Viki",
+      "texto": "Hipótese: abertura em close de rosto reagindo segura mais gente nos primeiros segundos.",
+      "hora": "29/10"
+    },
+    {
+      "de": "Viki",
+      "para": "Bart",
+      "texto": "EP06 mantém a escolha (menos narração, mais falas originais, cenas mais longas). O close de rosto entra no EP07.",
+      "hora": "29/10"
+    },
+    {
+      "de": "Star",
+      "para": "Ryan",
+      "texto": "Empresa v8 no ar.",
+      "hora": "29/10 15:46"
+    }
   ]
 }
